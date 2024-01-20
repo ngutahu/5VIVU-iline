@@ -297,7 +297,6 @@ img {
     vertical-align: middle;
     border-style: none;
     width: 100px;
-    margin: auto;
 }
 
 svg:not(:root) {
